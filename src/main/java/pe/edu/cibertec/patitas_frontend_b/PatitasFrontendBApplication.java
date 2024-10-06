@@ -10,4 +10,6 @@ public class PatitasFrontendBApplication {
 		SpringApplication.run(PatitasFrontendBApplication.class, args);
 	}
 
+
+
 }
